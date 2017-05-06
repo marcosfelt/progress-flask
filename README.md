@@ -1,6 +1,13 @@
 # Progress - a Flask micro-app
 
-Progress was a small investigation into Flask - a Python web framework. Turns out it's very simple!
+Progress was a small investigation into Flask - a Python web framework. I am co-opting it for a team action items app that can run in the cloud.
+
+## Todo
+- [] Clean up data formatting
+- [] Add delete task button
+- [] Add database ability to assign people tasks (so another database for users and link to tasks)
+- [] Add Twilio reminders for tasks
+- [] Add Alexa insert task (for doing that during a meeting)
 
 ## Install
 
@@ -25,9 +32,4 @@ Install flask in a virtualenv, check out the app and run:
     $ cd progress
     $ python progress.py
 
-## Todo
-[] - Clean up data formatting
-[] - Add delete task button
-[] - Add database ability to assign people tasks (so another database for users and link to tasks)
-[] - Add Twilio reminders for tasks
-[] - Add Alexa insert task (for doing that during a meeting)
+
