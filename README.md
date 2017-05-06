@@ -26,6 +26,8 @@ Install flask in a virtualenv, check out the app and run:
     $ python progress.py
 
 ## Todo
-
-*   Progress bars
-*   Live countdowns/bars
+[] - Clean up data formatting
+[] - Add delete task button
+[] - Add database ability to assign people tasks (so another database for users and link to tasks)
+[] - Add Twilio reminders for tasks
+[] - Add Alexa insert task (for doing that during a meeting)
